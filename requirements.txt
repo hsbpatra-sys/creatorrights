@@ -1,0 +1,3 @@
+streamlit
+pandas
+anthropic   # optional: only for the AI contract reader

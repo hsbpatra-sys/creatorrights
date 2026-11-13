@@ -1,0 +1,61 @@
+asset_id,name,asset_type,supplier,licence_type,platforms,regions,start_date,end_date,commercial_ok,modification_ok,ai_generated,evidence_url,verified,parent_id
+A001,Background track 01,Music,SoundBay,"Paid, limited","Website,YouTube",GLOBAL,2026-03-28,2027-11-01,1,0,0,contracts/A001.pdf,1,
+A002,Lifestyle portrait 02,Photo,Freelance: Aarav,"Paid, limited","TV,YouTube","IN,US,UK",2025-06-16,2026-11-21,1,0,0,contracts/A002.pdf,1,
+A003,Festive hero photo 03,Photo,StockCo,"Paid, limited",ALL,"IN,UK",2025-12-13,2026-12-08,1,0,0,contracts/A003.pdf,1,
+A004,Store front photo 04,Photo,StockCo,"Paid, limited",ALL,UAE,2025-08-24,2027-01-09,1,0,0,contracts/A004.pdf,1,
+A005,Voice-over bed 05,Music,BeatLib,"Paid, limited",ALL,UAE,2026-08-15,2026-11-17,1,0,0,contracts/A005.pdf,0,
+A006,Display font 06,Font,TypeFoundry,Desktop + web licence,ALL,"US,IN",2025-11-27,2026-09-16,1,1,0,contracts/A006.pdf,1,
+A007,Product flatlay 07,Photo,PixelHouse,"Paid, limited",ALL,UK,2026-07-04,2027-06-29,0,1,0,contracts/A007.pdf,1,
+A008,Stock b-roll 08,Video,Creator: Riya,Creator release,Website,GLOBAL,2026-01-22,2026-12-13,1,1,0,contracts/A008.pdf,0,
+A009,Mascot art 09,Illustration,Freelance: Neha,Commissioned,"Instagram,TV",GLOBAL,2025-08-29,2027-04-23,1,1,0,contracts/A009.pdf,1,
+A010,Headline font 10,Font,TypeFoundry,Desktop + web licence,ALL,GLOBAL,2026-07-21,2028-02-23,1,1,0,contracts/A010.pdf,1,
+A011,Festive instrumental 11,Music,BeatLib,"Paid, limited",ALL,GLOBAL,2026-07-02,2027-10-02,1,1,0,contracts/A011.pdf,1,
+A012,Creator reel clip 12,Video,FootageHub,Creator release,ALL,GLOBAL,2026-08-31,2026-10-19,1,1,0,contracts/A012.pdf,0,
+A013,Ingredient close-up 13,Photo,Freelance: Aarav,"Paid, limited","Instagram,YouTube,Website","US,IN,UAE",2026-09-20,2026-12-29,1,0,0,contracts/A013.pdf,1,
+A014,Festive hero photo 14,Photo,In-house,"Paid, limited","Facebook,Website","US,UAE,UK",2025-04-26,2027-01-25,1,1,0,contracts/A014.pdf,1,
+A015,Voice-over bed 15,Music,BeatLib,"Paid, limited","Facebook,Instagram",UAE,2025-07-09,2028-01-03,1,1,0,contracts/A015.pdf,1,
+A016,Mascot art 16,Illustration,Studio Mehta,Commissioned,Website,GLOBAL,2025-05-14,2027-03-31,1,1,0,contracts/A016.pdf,1,
+A017,Festive instrumental 17,Music,BeatLib,"Paid, limited",Website,"US,UK,UAE",2025-06-28,2028-02-18,1,1,0,contracts/A017.pdf,1,
+A018,Product flatlay 18,Photo,PixelHouse,"Paid, limited","TV,Instagram,Facebook",GLOBAL,2026-01-05,2026-12-26,1,1,0,contracts/A018.pdf,1,
+A019,Creator reel clip 19,Video,Creator: Riya,Creator release,"Instagram,YouTube",GLOBAL,2025-06-08,2027-03-15,1,1,0,contracts/A019.pdf,0,
+A020,Behind-the-scenes clip 20,Video,Creator: Riya,Creator release,Website,"UAE,IN,US",2025-06-30,2027-12-18,1,1,0,contracts/A020.pdf,1,
+A021,Illustration pack 21,Illustration,Studio Mehta,Commissioned,"Website,Facebook",IN,2026-05-31,2028-02-05,1,1,0,,1,
+A022,Headline font 22,Font,FontWorks,Desktop + web licence,ALL,UK,2025-07-30,2027-01-02,1,1,0,contracts/A022.pdf,1,
+A023,Ingredient close-up 23,Photo,PixelHouse,"Paid, limited","YouTube,Website,Instagram","US,UAE,IN",2025-12-11,2027-07-26,1,1,0,contracts/A023.pdf,1,
+A024,Voice-over bed 24,Music,BeatLib,"Paid, limited","YouTube,Facebook,Instagram","UK,US,UAE",2026-09-29,2026-12-01,1,0,0,,1,
+A025,AI product mockup 25,AI image,ImageGen Pro,Tool terms,ALL,GLOBAL,2025-08-07,2026-12-13,1,1,1,contracts/A025.pdf,0,
+A026,AI festive scene 26,AI image,GenTool,Tool terms,"Facebook,Instagram,Website",UK,2026-08-29,2026-12-08,1,1,1,contracts/A026.pdf,1,
+A027,Creator reel clip 27,Video,In-house,Creator release,ALL,UK,2025-07-14,2027-12-08,1,1,0,contracts/A027.pdf,1,
+A028,Mascot art 28,Illustration,Studio Mehta,Commissioned,TV,GLOBAL,2026-02-08,2027-10-10,1,1,0,,1,
+A029,AI background 29,AI image,GenTool,Tool terms,YouTube,GLOBAL,2025-07-30,2026-10-17,1,1,1,contracts/A029.pdf,1,
+A030,Behind-the-scenes clip 30,Video,Creator: Riya,Creator release,"Instagram,Facebook","UAE,IN,US",2025-04-25,2026-11-15,1,0,0,contracts/A030.pdf,1,
+A031,Product flatlay 31,Photo,In-house,"Paid, limited","Instagram,YouTube,Facebook",UK,2025-07-21,2027-07-20,0,1,0,contracts/A031.pdf,1,
+A032,Jingle 32,Music,Indie artist,"Paid, limited","YouTube,TV",GLOBAL,2025-08-16,2027-05-28,1,1,0,contracts/A032.pdf,1,
+A033,Product flatlay 33,Photo,Freelance: Aarav,"Paid, limited",Website,GLOBAL,2025-07-19,2027-09-15,1,0,0,contracts/A033.pdf,1,
+A034,Ingredient close-up 34,Photo,PixelHouse,"Paid, limited","TV,Instagram,Website",GLOBAL,2025-08-15,2027-05-16,1,1,0,,1,
+A035,Display font 35,Font,FontWorks,Desktop + web licence,"Instagram,TV,Facebook",GLOBAL,2026-08-14,2026-11-28,0,1,0,contracts/A035.pdf,1,
+A036,Behind-the-scenes clip 36,Video,FootageHub,Creator release,"TV,Instagram,Facebook","IN,UK,US",2026-04-14,2027-03-05,1,1,0,contracts/A036.pdf,1,
+A037,Voice-over bed 37,Music,Indie artist,"Paid, limited","Facebook,TV","UK,IN,US",2026-04-27,2027-10-09,1,1,0,contracts/A037.pdf,1,
+A038,AI festive scene 38,AI image,GenTool,Tool terms,YouTube,"UK,IN",2025-06-12,2026-11-04,1,0,1,contracts/A038.pdf,1,
+A039,Ingredient close-up 39,Photo,Freelance: Aarav,"Paid, limited",ALL,UK,2026-01-09,2027-11-20,1,1,0,contracts/A039.pdf,1,
+A040,Lifestyle portrait 40,Photo,PixelHouse,"Paid, limited",ALL,"UK,US,UAE",2026-03-24,2026-12-03,1,1,0,,0,
+A041,Icon set 41,Illustration,Studio Mehta,Commissioned,ALL,GLOBAL,2026-11-19,2026-11-27,1,0,0,contracts/A041.pdf,1,
+A042,Behind-the-scenes clip 42,Video,Creator: Riya,Creator release,"Website,TV","UK,UAE",2026-06-04,2028-02-16,1,1,0,contracts/A042.pdf,1,
+A043,Festive hero photo 43,Photo,StockCo,"Paid, limited","Facebook,TV,Website",US,2025-11-07,2027-10-07,1,1,0,contracts/A043.pdf,1,
+A044,Festive border art 44,Illustration,Freelance: Neha,Commissioned,ALL,GLOBAL,2025-11-27,2027-10-19,1,0,0,contracts/A044.pdf,1,
+A045,Jingle 45,Music,BeatLib,"Paid, limited",ALL,"UK,UAE,US",2025-04-24,2027-04-06,1,1,0,contracts/A045.pdf,1,
+A046,Festive instrumental 46,Music,BeatLib,"Paid, limited",ALL,"UAE,UK",2025-06-26,2027-03-14,1,0,0,contracts/A046.pdf,1,
+A047,Festive hero photo 47,Photo,StockCo,"Paid, limited","Instagram,Facebook",UK,2025-11-17,2026-09-24,1,0,0,contracts/A047.pdf,1,
+A048,Store front photo 48,Photo,In-house,"Paid, limited","Facebook,Website,YouTube","UAE,US",2026-08-18,2028-01-30,1,1,0,contracts/A048.pdf,1,
+A049,AI product mockup 49,AI image,GenTool,Tool terms,"Facebook,Instagram,Website","UAE,IN",2026-04-16,2027-11-04,1,1,1,contracts/A049.pdf,1,
+A050,Jingle 50,Music,BeatLib,"Paid, limited","YouTube,TV","IN,UK",2026-11-21,2028-01-27,1,1,0,contracts/A050.pdf,1,
+A051,Product flatlay 33 (edit),Photo,In-house edit,Derivative of A033,Website,GLOBAL,2025-07-19,2027-09-15,1,1,0,contracts/A051.pdf,1,A033
+A052,Voice-over bed 15 (edit),Music,In-house edit,Derivative of A015,"Facebook,Instagram",UAE,2025-07-09,2028-01-03,1,1,0,contracts/A052.pdf,1,A015
+A053,AI background 29 (edit),AI image,In-house edit,Derivative of A029,YouTube,GLOBAL,2025-07-30,2026-10-17,1,1,1,contracts/A053.pdf,1,A029
+A054,Creator reel clip 12 (edit),Video,In-house edit,Derivative of A012,ALL,GLOBAL,2026-08-31,2026-10-19,1,1,0,,1,A012
+A055,Product flatlay 18 (edit),Photo,In-house edit,Derivative of A018,"TV,Instagram,Facebook",GLOBAL,2026-01-05,2026-12-26,1,1,0,,1,A018
+A056,AI festive scene 26 (edit),AI image,In-house edit,Derivative of A026,"Facebook,Instagram,Website",UK,2026-08-29,2026-12-08,1,1,1,contracts/A056.pdf,1,A026
+A057,Festive hero photo 47 (edit),Photo,In-house edit,Derivative of A047,"Instagram,Facebook",UK,2025-11-17,2026-09-24,1,1,0,contracts/A057.pdf,1,A047
+A058,Behind-the-scenes clip 20 (edit),Video,In-house edit,Derivative of A020,Website,"UAE,IN,US",2025-06-30,2027-12-18,1,1,0,contracts/A058.pdf,1,A020
+A059,Icon set 41 (edit),Illustration,In-house edit,Derivative of A041,ALL,GLOBAL,2026-11-19,2026-11-27,1,1,0,,1,A041
+A060,Behind-the-scenes clip 36 (edit),Video,In-house edit,Derivative of A036,"TV,Instagram,Facebook","IN,UK,US",2026-04-14,2027-03-05,1,1,0,contracts/A060.pdf,1,A036

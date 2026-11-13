@@ -1,0 +1,221 @@
+usage_id,campaign,asset_id,platform,region,use_date,commercial,status,reasons,reason_categories
+U001,Store Opening,A026,Instagram,US,2026-11-26,1,RED,Licence ends 2026-12-08 | US not allowed | AI-generated: ownership unclear,Expiring soon;Region not allowed;AI ownership unclear
+U002,Creator Collab Series,A051,YouTube,US,2026-11-16,1,RED,YouTube not allowed | Parent A033 bans edits | Parent: YouTube not allowed,Platform not allowed;Edits banned by parent;Platform not allowed
+U003,New Year Launch,A046,YouTube,UK,2026-11-02,1,GREEN,,
+U004,New Year Launch,A041,TV,IN,2026-11-02,1,RED,Licence not started | Licence ends 2026-11-27,Not started;Expiring soon
+U005,Winter Sale,A001,YouTube,IN,2026-11-15,1,GREEN,,
+U006,Republic Day Offer,A057,Facebook,UK,2026-10-25,1,RED,Licence expired 2026-09-24 | Parent A047 bans edits | Parent: Licence expired 2026-09-24,Expired;Edits banned by parent;Expired
+U007,Republic Day Offer,A013,Instagram,US,2026-11-06,1,GREEN,,
+U008,Brand Anthem,A034,Website,US,2026-10-28,1,AMBER,No approval evidence,No evidence
+U009,Brand Anthem,A043,Website,US,2026-10-30,1,GREEN,,
+U010,Brand Anthem,A048,Instagram,UAE,2026-11-17,1,RED,Instagram not allowed,Platform not allowed
+U011,New Year Launch,A016,Website,IN,2026-11-06,0,GREEN,,
+U012,Store Opening,A019,YouTube,US,2026-11-28,1,UNVERIFIED,Terms not confirmed by a person,Unverified
+U013,Loyalty Push,A013,Website,UAE,2026-11-10,1,GREEN,,
+U014,New Year Launch,A029,Instagram,IN,2026-11-01,1,RED,Licence expired 2026-10-17 | Instagram not allowed | AI-generated: ownership unclear,Expired;Platform not allowed;AI ownership unclear
+U015,New Year Launch,A012,Instagram,IN,2026-10-30,1,RED,Licence expired 2026-10-19 | Terms not confirmed by a person,Expired;Unverified
+U016,Creator Collab Series,A008,Website,US,2026-11-25,1,UNVERIFIED,Licence ends 2026-12-13 | Terms not confirmed by a person,Expiring soon;Unverified
+U017,Republic Day Offer,A050,TV,UK,2026-12-02,1,GREEN,,
+U018,Loyalty Push,A040,YouTube,US,2026-11-26,1,UNVERIFIED,Licence ends 2026-12-03 | No approval evidence | Terms not confirmed by a person,Expiring soon;No evidence;Unverified
+U019,Loyalty Push,A013,Website,US,2026-11-17,1,GREEN,,
+U020,Store Opening,A051,Website,UAE,2026-11-09,1,RED,Parent A033 bans edits,Edits banned by parent
+U021,Creator Collab Series,A036,TV,IN,2026-11-29,1,GREEN,,
+U022,Republic Day Offer,A037,YouTube,UAE,2026-11-08,1,RED,YouTube not allowed | UAE not allowed,Platform not allowed;Region not allowed
+U023,Winter Sale,A045,Instagram,UK,2026-11-10,1,GREEN,,
+U024,New Year Launch,A029,YouTube,IN,2026-11-28,0,RED,Licence expired 2026-10-17 | AI-generated: ownership unclear,Expired;AI ownership unclear
+U025,Loyalty Push,A059,Facebook,IN,2026-10-24,1,RED,Licence not started | Parent A041 bans edits | Parent: Licence not started | No approval evidence,Not started;Edits banned by parent;Not started;No evidence
+U026,Winter Sale,A016,Facebook,UAE,2026-12-01,1,RED,Facebook not allowed,Platform not allowed
+U027,Republic Day Offer,A030,Instagram,UAE,2026-11-12,1,AMBER,Licence ends 2026-11-15,Expiring soon
+U028,Republic Day Offer,A040,Instagram,UK,2026-11-22,1,UNVERIFIED,Licence ends 2026-12-03 | No approval evidence | Terms not confirmed by a person,Expiring soon;No evidence;Unverified
+U029,Loyalty Push,A008,Website,UAE,2026-11-09,1,UNVERIFIED,Terms not confirmed by a person,Unverified
+U030,Winter Sale,A004,Instagram,UAE,2026-11-18,0,GREEN,,
+U031,Brand Anthem,A031,Facebook,US,2026-11-11,1,RED,US not allowed | No commercial use,Region not allowed;Non-commercial licence
+U032,Loyalty Push,A054,Website,IN,2026-11-29,1,RED,Licence expired 2026-10-19 | Parent: Licence expired 2026-10-19 | No approval evidence,Expired;Expired;No evidence
+U033,Republic Day Offer,A034,Website,UK,2026-10-27,1,AMBER,No approval evidence,No evidence
+U034,Creator Collab Series,A047,Facebook,UK,2026-11-30,0,RED,Licence expired 2026-09-24,Expired
+U035,Winter Sale,A008,YouTube,US,2026-10-27,1,RED,YouTube not allowed | Terms not confirmed by a person,Platform not allowed;Unverified
+U036,Loyalty Push,A034,TV,US,2026-11-08,0,AMBER,No approval evidence,No evidence
+U037,Winter Sale,A056,Website,UAE,2026-12-04,1,RED,Licence ends 2026-12-08 | UAE not allowed | Parent: Licence ends 2026-12-08 | Parent: UAE not allowed | AI-generated: ownership unclear,Expiring soon;Region not allowed;Expiring soon;Region not allowed;AI ownership unclear
+U038,Diwali Festive 2026,A058,Website,US,2026-11-29,0,GREEN,,
+U039,Brand Anthem,A019,YouTube,UAE,2026-10-28,1,UNVERIFIED,Terms not confirmed by a person,Unverified
+U040,Brand Anthem,A053,YouTube,UAE,2026-10-26,1,RED,Licence expired 2026-10-17 | Parent: Licence expired 2026-10-17 | AI-generated: ownership unclear,Expired;Expired;AI ownership unclear
+U041,Diwali Festive 2026,A058,Website,UAE,2026-11-06,1,GREEN,,
+U042,Creator Collab Series,A013,YouTube,IN,2026-11-04,1,GREEN,,
+U043,Loyalty Push,A035,Instagram,IN,2026-12-04,1,RED,Licence expired 2026-11-28 | No commercial use,Expired;Non-commercial licence
+U044,Brand Anthem,A058,Website,IN,2026-11-14,1,GREEN,,
+U045,Store Opening,A027,YouTube,IN,2026-12-08,1,RED,IN not allowed,Region not allowed
+U046,Winter Sale,A012,TV,UK,2026-11-16,0,RED,Licence expired 2026-10-19 | Terms not confirmed by a person,Expired;Unverified
+U047,New Year Launch,A038,YouTube,UAE,2026-12-05,1,RED,Licence expired 2026-11-04 | UAE not allowed | AI-generated: ownership unclear,Expired;Region not allowed;AI ownership unclear
+U048,Diwali Festive 2026,A041,Website,US,2026-11-26,1,AMBER,Licence ends 2026-11-27,Expiring soon
+U049,Store Opening,A001,Website,US,2026-11-29,1,GREEN,,
+U050,New Year Launch,A049,Instagram,IN,2026-11-04,1,AMBER,AI-generated: ownership unclear,AI ownership unclear
+U051,Brand Anthem,A058,Website,US,2026-10-24,0,GREEN,,
+U052,Diwali Festive 2026,A004,TV,UK,2026-11-13,1,RED,UK not allowed,Region not allowed
+U053,New Year Launch,A034,TV,UAE,2026-12-01,1,AMBER,No approval evidence,No evidence
+U054,Creator Collab Series,A008,Website,UK,2026-12-08,1,UNVERIFIED,Licence ends 2026-12-13 | Terms not confirmed by a person,Expiring soon;Unverified
+U055,Diwali Festive 2026,A017,Website,US,2026-11-09,1,GREEN,,
+U056,Republic Day Offer,A037,Facebook,US,2026-10-25,1,GREEN,,
+U057,New Year Launch,A033,Website,IN,2026-10-28,1,GREEN,,
+U058,Loyalty Push,A037,Facebook,IN,2026-11-12,1,GREEN,,
+U059,New Year Launch,A053,YouTube,US,2026-10-29,1,RED,Licence expired 2026-10-17 | Parent: Licence expired 2026-10-17 | AI-generated: ownership unclear,Expired;Expired;AI ownership unclear
+U060,Brand Anthem,A025,YouTube,US,2026-10-27,1,UNVERIFIED,AI-generated: ownership unclear | Terms not confirmed by a person,AI ownership unclear;Unverified
+U061,New Year Launch,A024,Facebook,IN,2026-11-01,1,RED,Licence ends 2026-12-01 | IN not allowed | No approval evidence,Expiring soon;Region not allowed;No evidence
+U062,New Year Launch,A010,TV,IN,2026-10-24,1,GREEN,,
+U063,Creator Collab Series,A006,Facebook,IN,2026-10-26,1,RED,Licence expired 2026-09-16,Expired
+U064,Loyalty Push,A019,Instagram,IN,2026-11-07,1,UNVERIFIED,Terms not confirmed by a person,Unverified
+U065,Loyalty Push,A060,Instagram,US,2026-12-04,0,GREEN,,
+U066,Diwali Festive 2026,A037,Facebook,UK,2026-11-06,1,GREEN,,
+U067,Republic Day Offer,A014,Facebook,US,2026-11-03,1,GREEN,,
+U068,Brand Anthem,A014,Website,UK,2026-12-03,1,GREEN,,
+U069,Store Opening,A014,Website,US,2026-11-10,1,GREEN,,
+U070,Creator Collab Series,A040,YouTube,US,2026-11-18,1,UNVERIFIED,Licence ends 2026-12-03 | No approval evidence | Terms not confirmed by a person,Expiring soon;No evidence;Unverified
+U071,Winter Sale,A018,Instagram,UK,2026-11-01,1,GREEN,,
+U072,Diwali Festive 2026,A002,Website,UK,2026-11-13,1,RED,Licence ends 2026-11-21 | Website not allowed,Expiring soon;Platform not allowed
+U073,New Year Launch,A020,Website,IN,2026-11-02,1,GREEN,,
+U074,Store Opening,A003,Website,IN,2026-11-26,1,AMBER,Licence ends 2026-12-08,Expiring soon
+U075,Brand Anthem,A021,Website,IN,2026-11-10,1,AMBER,No approval evidence,No evidence
+U076,Loyalty Push,A026,Website,UAE,2026-10-30,1,RED,UAE not allowed | AI-generated: ownership unclear,Region not allowed;AI ownership unclear
+U077,Store Opening,A040,Instagram,US,2026-11-29,1,UNVERIFIED,Licence ends 2026-12-03 | No approval evidence | Terms not confirmed by a person,Expiring soon;No evidence;Unverified
+U078,Loyalty Push,A043,Facebook,US,2026-12-05,1,GREEN,,
+U079,Diwali Festive 2026,A016,Facebook,US,2026-10-31,1,RED,Facebook not allowed,Platform not allowed
+U080,Republic Day Offer,A032,TV,UK,2026-11-07,1,GREEN,,
+U081,Loyalty Push,A013,Instagram,US,2026-11-08,1,GREEN,,
+U082,Store Opening,A059,YouTube,UK,2026-12-07,0,RED,Licence expired 2026-11-27 | Parent A041 bans edits | Parent: Licence expired 2026-11-27 | No approval evidence,Expired;Edits banned by parent;Expired;No evidence
+U083,Republic Day Offer,A045,Website,UAE,2026-11-18,1,GREEN,,
+U084,Diwali Festive 2026,A032,Facebook,UK,2026-11-09,1,RED,Facebook not allowed,Platform not allowed
+U085,Brand Anthem,A023,YouTube,UAE,2026-12-05,0,GREEN,,
+U086,Republic Day Offer,A025,Facebook,UAE,2026-10-28,1,UNVERIFIED,AI-generated: ownership unclear | Terms not confirmed by a person,AI ownership unclear;Unverified
+U087,Republic Day Offer,A040,Facebook,UK,2026-11-21,1,UNVERIFIED,Licence ends 2026-12-03 | No approval evidence | Terms not confirmed by a person,Expiring soon;No evidence;Unverified
+U088,Diwali Festive 2026,A003,TV,UK,2026-11-16,1,AMBER,Licence ends 2026-12-08,Expiring soon
+U089,Republic Day Offer,A010,Facebook,UAE,2026-11-08,1,GREEN,,
+U090,Loyalty Push,A001,Website,IN,2026-12-02,0,GREEN,,
+U091,New Year Launch,A017,Website,US,2026-11-06,1,GREEN,,
+U092,Store Opening,A013,YouTube,US,2026-11-24,0,GREEN,,
+U093,Creator Collab Series,A024,YouTube,US,2026-11-24,1,AMBER,Licence ends 2026-12-01 | No approval evidence,Expiring soon;No evidence
+U094,Winter Sale,A024,Instagram,UAE,2026-10-28,0,AMBER,No approval evidence,No evidence
+U095,Republic Day Offer,A057,Instagram,US,2026-10-26,1,RED,Licence expired 2026-09-24 | US not allowed | Parent A047 bans edits | Parent: Licence expired 2026-09-24 | Parent: US not allowed,Expired;Region not allowed;Edits banned by parent;Expired;Region not allowed
+U096,Store Opening,A056,Facebook,UK,2026-11-09,1,AMBER,Licence ends 2026-12-08 | Parent: Licence ends 2026-12-08 | AI-generated: ownership unclear,Expiring soon;Expiring soon;AI ownership unclear
+U097,Republic Day Offer,A024,YouTube,UAE,2026-11-29,0,AMBER,Licence ends 2026-12-01 | No approval evidence,Expiring soon;No evidence
+U098,Store Opening,A042,TV,UAE,2026-11-05,1,GREEN,,
+U099,Republic Day Offer,A015,Instagram,UAE,2026-11-10,1,GREEN,,
+U100,Winter Sale,A017,Website,US,2026-11-01,1,GREEN,,
+U101,Diwali Festive 2026,A056,Facebook,UK,2026-11-18,1,AMBER,Licence ends 2026-12-08 | Parent: Licence ends 2026-12-08 | AI-generated: ownership unclear,Expiring soon;Expiring soon;AI ownership unclear
+U102,Store Opening,A054,Website,IN,2026-11-12,1,RED,Licence expired 2026-10-19 | Parent: Licence expired 2026-10-19 | No approval evidence,Expired;Expired;No evidence
+U103,Store Opening,A015,Facebook,US,2026-12-06,1,RED,US not allowed,Region not allowed
+U104,Store Opening,A052,Website,UAE,2026-11-28,0,RED,Website not allowed | Parent: Website not allowed,Platform not allowed;Platform not allowed
+U105,New Year Launch,A057,Instagram,UK,2026-11-10,1,RED,Licence expired 2026-09-24 | Parent A047 bans edits | Parent: Licence expired 2026-09-24,Expired;Edits banned by parent;Expired
+U106,Store Opening,A018,Facebook,IN,2026-11-23,1,GREEN,,
+U107,New Year Launch,A036,Instagram,UK,2026-12-05,1,GREEN,,
+U108,Loyalty Push,A022,YouTube,US,2026-11-23,1,RED,US not allowed,Region not allowed
+U109,Store Opening,A052,Instagram,UAE,2026-11-10,1,GREEN,,
+U110,New Year Launch,A056,Facebook,UK,2026-11-04,0,AMBER,AI-generated: ownership unclear,AI ownership unclear
+U111,Brand Anthem,A035,Instagram,IN,2026-11-28,1,RED,Licence ends 2026-11-28 | No commercial use,Expiring soon;Non-commercial licence
+U112,Creator Collab Series,A001,Instagram,IN,2026-11-26,1,RED,Instagram not allowed,Platform not allowed
+U113,Republic Day Offer,A051,Website,IN,2026-11-23,1,RED,Parent A033 bans edits,Edits banned by parent
+U114,Republic Day Offer,A017,TV,US,2026-11-02,1,RED,TV not allowed,Platform not allowed
+U115,Loyalty Push,A047,Facebook,UK,2026-12-03,1,RED,Licence expired 2026-09-24,Expired
+U116,New Year Launch,A020,Website,UAE,2026-11-14,1,GREEN,,
+U117,Winter Sale,A014,Facebook,US,2026-11-06,1,GREEN,,
+U118,Diwali Festive 2026,A010,Facebook,IN,2026-10-24,1,GREEN,,
+U119,Loyalty Push,A026,Website,UAE,2026-10-25,0,RED,UAE not allowed | AI-generated: ownership unclear,Region not allowed;AI ownership unclear
+U120,Creator Collab Series,A005,Instagram,UAE,2026-11-20,1,RED,Licence expired 2026-11-17 | Terms not confirmed by a person,Expired;Unverified
+U121,Loyalty Push,A032,YouTube,IN,2026-12-06,1,GREEN,,
+U122,Republic Day Offer,A057,Facebook,UK,2026-11-02,1,RED,Licence expired 2026-09-24 | Parent A047 bans edits | Parent: Licence expired 2026-09-24,Expired;Edits banned by parent;Expired
+U123,Republic Day Offer,A059,YouTube,UK,2026-11-21,0,RED,Licence ends 2026-11-27 | Parent A041 bans edits | Parent: Licence ends 2026-11-27 | No approval evidence,Expiring soon;Edits banned by parent;Expiring soon;No evidence
+U124,Republic Day Offer,A033,Instagram,US,2026-11-20,1,RED,Instagram not allowed,Platform not allowed
+U125,Brand Anthem,A054,YouTube,IN,2026-11-25,0,RED,Licence expired 2026-10-19 | Parent: Licence expired 2026-10-19 | No approval evidence,Expired;Expired;No evidence
+U126,Loyalty Push,A029,YouTube,UK,2026-11-02,1,RED,Licence expired 2026-10-17 | AI-generated: ownership unclear,Expired;AI ownership unclear
+U127,New Year Launch,A017,Website,UK,2026-11-28,1,GREEN,,
+U128,New Year Launch,A049,Website,IN,2026-12-04,1,AMBER,AI-generated: ownership unclear,AI ownership unclear
+U129,Diwali Festive 2026,A054,Instagram,UK,2026-10-28,1,RED,Licence expired 2026-10-19 | Parent: Licence expired 2026-10-19 | No approval evidence,Expired;Expired;No evidence
+U130,Republic Day Offer,A046,TV,US,2026-11-06,1,RED,US not allowed,Region not allowed
+U131,Brand Anthem,A013,Website,IN,2026-11-28,1,GREEN,,
+U132,New Year Launch,A057,Facebook,IN,2026-11-02,0,RED,Licence expired 2026-09-24 | IN not allowed | Parent A047 bans edits | Parent: Licence expired 2026-09-24 | Parent: IN not allowed,Expired;Region not allowed;Edits banned by parent;Expired;Region not allowed
+U133,New Year Launch,A007,Facebook,UAE,2026-11-11,1,RED,UAE not allowed | No commercial use,Region not allowed;Non-commercial licence
+U134,Creator Collab Series,A040,TV,UK,2026-10-28,1,UNVERIFIED,No approval evidence | Terms not confirmed by a person,No evidence;Unverified
+U135,Loyalty Push,A035,TV,US,2026-11-17,1,RED,Licence ends 2026-11-28 | No commercial use,Expiring soon;Non-commercial licence
+U136,New Year Launch,A045,Facebook,UAE,2026-12-07,1,GREEN,,
+U137,Loyalty Push,A011,Website,UK,2026-10-31,1,GREEN,,
+U138,Loyalty Push,A040,Facebook,UAE,2026-12-07,1,RED,Licence expired 2026-12-03 | No approval evidence | Terms not confirmed by a person,Expired;No evidence;Unverified
+U139,Loyalty Push,A056,Facebook,UK,2026-12-03,1,AMBER,Licence ends 2026-12-08 | Parent: Licence ends 2026-12-08 | AI-generated: ownership unclear,Expiring soon;Expiring soon;AI ownership unclear
+U140,Republic Day Offer,A053,YouTube,IN,2026-10-30,1,RED,Licence expired 2026-10-17 | Parent: Licence expired 2026-10-17 | AI-generated: ownership unclear,Expired;Expired;AI ownership unclear
+U141,Brand Anthem,A016,Website,UK,2026-10-29,1,GREEN,,
+U142,Winter Sale,A015,Website,UAE,2026-12-01,1,RED,Website not allowed,Platform not allowed
+U143,Diwali Festive 2026,A024,YouTube,US,2026-11-10,1,AMBER,Licence ends 2026-12-01 | No approval evidence,Expiring soon;No evidence
+U144,Store Opening,A044,Instagram,UAE,2026-11-30,0,GREEN,,
+U145,Brand Anthem,A025,Facebook,IN,2026-11-27,1,UNVERIFIED,Licence ends 2026-12-13 | AI-generated: ownership unclear | Terms not confirmed by a person,Expiring soon;AI ownership unclear;Unverified
+U146,Loyalty Push,A058,Website,IN,2026-11-30,1,GREEN,,
+U147,New Year Launch,A058,Instagram,IN,2026-11-23,1,RED,Instagram not allowed | Parent: Instagram not allowed,Platform not allowed;Platform not allowed
+U148,Diwali Festive 2026,A030,Facebook,US,2026-10-27,0,AMBER,Licence ends 2026-11-15,Expiring soon
+U149,Brand Anthem,A051,Website,IN,2026-10-27,1,RED,Parent A033 bans edits,Edits banned by parent
+U150,New Year Launch,A042,Website,UAE,2026-11-24,1,GREEN,,
+U151,Brand Anthem,A033,Website,UK,2026-12-05,0,GREEN,,
+U152,Diwali Festive 2026,A050,Website,IN,2026-11-16,0,RED,Licence not started | Website not allowed,Not started;Platform not allowed
+U153,Winter Sale,A007,TV,UK,2026-10-30,1,RED,No commercial use,Non-commercial licence
+U154,Creator Collab Series,A005,YouTube,UAE,2026-11-11,1,UNVERIFIED,Licence ends 2026-11-17 | Terms not confirmed by a person,Expiring soon;Unverified
+U155,Winter Sale,A016,Website,UAE,2026-11-30,1,GREEN,,
+U156,New Year Launch,A030,Instagram,UAE,2026-11-02,0,AMBER,Licence ends 2026-11-15,Expiring soon
+U157,Winter Sale,A027,Instagram,UK,2026-11-07,1,GREEN,,
+U158,Store Opening,A048,Facebook,UAE,2026-11-18,1,GREEN,,
+U159,Winter Sale,A059,Instagram,UK,2026-10-29,1,RED,Licence not started | Licence ends 2026-11-27 | Parent A041 bans edits | Parent: Licence not started | Parent: Licence ends 2026-11-27 | No approval evidence,Not started;Expiring soon;Edits banned by parent;Not started;Expiring soon;No evidence
+U160,New Year Launch,A043,Facebook,UAE,2026-12-04,0,RED,UAE not allowed,Region not allowed
+U161,Store Opening,A037,Instagram,UK,2026-11-10,1,RED,Instagram not allowed,Platform not allowed
+U162,Loyalty Push,A015,Facebook,US,2026-11-15,1,RED,US not allowed,Region not allowed
+U163,Loyalty Push,A029,YouTube,IN,2026-11-03,1,RED,Licence expired 2026-10-17 | AI-generated: ownership unclear,Expired;AI ownership unclear
+U164,Creator Collab Series,A026,Instagram,UK,2026-11-13,1,AMBER,Licence ends 2026-12-08 | AI-generated: ownership unclear,Expiring soon;AI ownership unclear
+U165,Winter Sale,A034,Website,UK,2026-11-19,1,AMBER,No approval evidence,No evidence
+U166,Store Opening,A001,Website,UK,2026-12-01,1,GREEN,,
+U167,Loyalty Push,A014,Facebook,UK,2026-10-31,1,GREEN,,
+U168,Loyalty Push,A004,YouTube,UAE,2026-11-20,1,GREEN,,
+U169,Store Opening,A026,Website,UK,2026-11-18,0,AMBER,Licence ends 2026-12-08 | AI-generated: ownership unclear,Expiring soon;AI ownership unclear
+U170,Brand Anthem,A022,YouTube,UK,2026-12-04,1,AMBER,Licence ends 2027-01-02,Expiring soon
+U171,Creator Collab Series,A004,Instagram,UAE,2026-12-03,1,GREEN,,
+U172,Brand Anthem,A038,YouTube,IN,2026-11-04,1,AMBER,Licence ends 2026-11-04 | AI-generated: ownership unclear,Expiring soon;AI ownership unclear
+U173,Winter Sale,A044,Website,US,2026-10-31,1,GREEN,,
+U174,Store Opening,A054,Facebook,IN,2026-12-07,1,RED,Licence expired 2026-10-19 | Parent: Licence expired 2026-10-19 | No approval evidence,Expired;Expired;No evidence
+U175,New Year Launch,A045,TV,UAE,2026-10-30,1,GREEN,,
+U176,Republic Day Offer,A054,YouTube,US,2026-11-19,1,RED,Licence expired 2026-10-19 | Parent: Licence expired 2026-10-19 | No approval evidence,Expired;Expired;No evidence
+U177,Republic Day Offer,A060,TV,UK,2026-11-24,1,GREEN,,
+U178,Diwali Festive 2026,A033,Instagram,UAE,2026-11-30,1,RED,Instagram not allowed,Platform not allowed
+U179,Brand Anthem,A023,Facebook,US,2026-12-06,1,RED,Facebook not allowed,Platform not allowed
+U180,Brand Anthem,A023,YouTube,UAE,2026-11-13,1,GREEN,,
+U181,Store Opening,A015,Facebook,UAE,2026-11-09,0,GREEN,,
+U182,Republic Day Offer,A025,YouTube,IN,2026-11-28,1,UNVERIFIED,Licence ends 2026-12-13 | AI-generated: ownership unclear | Terms not confirmed by a person,Expiring soon;AI ownership unclear;Unverified
+U183,Winter Sale,A059,Website,UAE,2026-11-04,1,RED,Licence not started | Licence ends 2026-11-27 | Parent A041 bans edits | Parent: Licence not started | Parent: Licence ends 2026-11-27 | No approval evidence,Not started;Expiring soon;Edits banned by parent;Not started;Expiring soon;No evidence
+U184,Brand Anthem,A044,YouTube,UK,2026-11-29,1,GREEN,,
+U185,New Year Launch,A022,Website,UK,2026-11-12,1,GREEN,,
+U186,Creator Collab Series,A014,TV,UK,2026-10-31,1,RED,TV not allowed,Platform not allowed
+U187,Store Opening,A038,YouTube,UK,2026-10-30,0,AMBER,Licence ends 2026-11-04 | AI-generated: ownership unclear,Expiring soon;AI ownership unclear
+U188,Store Opening,A039,Facebook,UK,2026-10-25,1,GREEN,,
+U189,Diwali Festive 2026,A043,Website,US,2026-11-24,1,GREEN,,
+U190,New Year Launch,A019,TV,US,2026-11-03,0,RED,TV not allowed | Terms not confirmed by a person,Platform not allowed;Unverified
+U191,Store Opening,A040,YouTube,US,2026-12-07,0,RED,Licence expired 2026-12-03 | No approval evidence | Terms not confirmed by a person,Expired;No evidence;Unverified
+U192,Loyalty Push,A020,Website,US,2026-11-07,1,GREEN,,
+U193,Winter Sale,A023,Website,US,2026-11-15,0,GREEN,,
+U194,Winter Sale,A036,TV,UK,2026-10-24,1,GREEN,,
+U195,Winter Sale,A013,Facebook,IN,2026-10-27,0,RED,Facebook not allowed,Platform not allowed
+U196,New Year Launch,A010,TV,IN,2026-11-20,1,GREEN,,
+U197,New Year Launch,A006,Facebook,IN,2026-12-08,1,RED,Licence expired 2026-09-16,Expired
+U198,Store Opening,A032,TV,IN,2026-11-01,0,GREEN,,
+U199,Diwali Festive 2026,A022,Facebook,UAE,2026-11-20,0,RED,UAE not allowed,Region not allowed
+U200,New Year Launch,A039,TV,UK,2026-11-03,1,GREEN,,
+U201,New Year Launch,A059,Instagram,UK,2026-10-25,1,RED,Licence not started | Parent A041 bans edits | Parent: Licence not started | No approval evidence,Not started;Edits banned by parent;Not started;No evidence
+U202,Creator Collab Series,A054,TV,IN,2026-10-24,1,RED,Licence expired 2026-10-19 | Parent: Licence expired 2026-10-19 | No approval evidence,Expired;Expired;No evidence
+U203,Creator Collab Series,A026,Website,UK,2026-11-15,1,AMBER,Licence ends 2026-12-08 | AI-generated: ownership unclear,Expiring soon;AI ownership unclear
+U204,Brand Anthem,A017,Website,UK,2026-11-26,1,GREEN,,
+U205,Brand Anthem,A042,TV,UAE,2026-11-06,1,GREEN,,
+U206,Store Opening,A015,Facebook,UAE,2026-12-01,1,GREEN,,
+U207,Creator Collab Series,A037,YouTube,IN,2026-11-12,1,RED,YouTube not allowed,Platform not allowed
+U208,Creator Collab Series,A044,YouTube,IN,2026-12-06,1,GREEN,,
+U209,Winter Sale,A029,YouTube,UAE,2026-11-16,1,RED,Licence expired 2026-10-17 | AI-generated: ownership unclear,Expired;AI ownership unclear
+U210,Loyalty Push,A059,Website,US,2026-12-05,1,RED,Licence expired 2026-11-27 | Parent A041 bans edits | Parent: Licence expired 2026-11-27 | No approval evidence,Expired;Edits banned by parent;Expired;No evidence
+U211,Diwali Festive 2026,A051,Website,IN,2026-11-23,0,RED,Parent A033 bans edits,Edits banned by parent
+U212,Creator Collab Series,A004,Website,US,2026-11-03,1,RED,US not allowed,Region not allowed
+U213,New Year Launch,A011,YouTube,UK,2026-11-01,0,GREEN,,
+U214,Brand Anthem,A052,Instagram,UAE,2026-12-07,1,GREEN,,
+U215,Loyalty Push,A024,Instagram,UAE,2026-10-28,0,AMBER,No approval evidence,No evidence
+U216,Brand Anthem,A044,Facebook,IN,2026-11-10,1,GREEN,,
+U217,Winter Sale,A049,Facebook,IN,2026-12-04,1,AMBER,AI-generated: ownership unclear,AI ownership unclear
+U218,Store Opening,A059,TV,UK,2026-12-03,1,RED,Licence expired 2026-11-27 | Parent A041 bans edits | Parent: Licence expired 2026-11-27 | No approval evidence,Expired;Edits banned by parent;Expired;No evidence
+U219,New Year Launch,A031,TV,UK,2026-11-22,1,RED,TV not allowed | No commercial use,Platform not allowed;Non-commercial licence
+U220,New Year Launch,A031,Instagram,UK,2026-11-27,1,RED,No commercial use,Non-commercial licence
